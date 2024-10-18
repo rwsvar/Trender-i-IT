@@ -22,34 +22,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.2rem;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
-.intro {
-    margin: 50px 0;
-}
-
-footer {
-    background: rgba(0, 0, 0, 0.7);
-    padding: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+p {
+    max-width:60%;
 }
